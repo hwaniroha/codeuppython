@@ -1,4 +1,4 @@
-entrypoint = "/home/runner/codeuppython/codeup_problems/6064.py"
+entrypoint = "/home/runner/codeuppython/codeup_problems/6074.py"
 modules = ["python-3.11"]
 
 [nix]
